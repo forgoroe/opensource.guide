@@ -16,7 +16,7 @@ Non c'è una regola che ti costringe a promuovere un progetto open source in fas
 
 ## Rifletti sul messaggio
 
-Prima di promuovere il tuo progetto, dovresti saper spiegare cosa fa e perchè è importante.
+Prima di promuovere il tuo progetto, dovresti di essere in grado di spiegare cosa fa e perchè è importante.
 
 Cosa distingue o rende interessante il tuo progetto? Perchè l'hai creato? Rispondendo a queste domande comunicherai il valore del tuo progetto più facilmente.
 
@@ -28,10 +28,10 @@ Per esempio, @robb utilizza esempi chiari per comunicare le ragioni per le quali
 
 Per un'analisi più approfondita riguardo al messaging, dai un'occhiata all'esercizio di Mozilla ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) per sviluppare user personas.
 
-## Aiuta le persone a trovare e seguire il tuo progetto
+## Aiuta le persone a trovare e a seguire il tuo progetto
 
 <aside markdown="1" class="pquote">
-  Idealmente hai solo bisogno di un singolo URL "home" che puoi promuovere e fornire come riferimento per il tuo progetto. Non c'è bisogno di un template o nome di dominio sofisticato, ma il tuo progetto ha bisogno di un punto di riferimento.
+  Idealmente hai solo bisogno di un singolo URL "home" che puoi promuovere e fornire come riferimento per il tuo progetto. Non c'è bisogno di un template o di un nome di dominio sofisticato, ma di un solo e unico punto di riferimento.
 
   _You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point._
   <p markdown="1" class="pquote-credit">
@@ -39,9 +39,9 @@ Per un'analisi più approfondita riguardo al messaging, dai un'occhiata all'eser
   </p>
 </aside>
 
-Aiuta le persone a far sì che si ricordino del tuo progetto riferendoli al tuo progetto utilizzando un singolo namespace.
+Aiuta le persone a far sì che si ricordino del tuo progetto riferendoli al tuo progetto utilizzando un unico namespace.
 
-**Scegli un handle chiaro per promuovere il tuo lavoro.** Un handle Twitter, GitHub URL, oppure canale IRC è un modo semplice per riferire le persone al tuo progetto. Inoltre, questi outlet offriranno alla tua community un luogo comune di incontro.
+**Scegli un handle chiaro per promuovere il tuo lavoro.** Un handle Twitter, GitHub URL, oppure canale IRC è un modo semplice per indirizzare le persone al tuo progetto. Inoltre, questi outlet offriranno alla tua community un luogo comune di incontro.
 
 Se ancora non desideri predisporre outlet per il tuo progetto, promuovi il tuo handle Twitter o GitHub in tutto ciò che fai. Promuovendo il tuo handle Twitter o GitHub offri a chi è interessato un modo per contattarti o seguire il tuo lavoro. Se parli ad un raduno o evento, assicurati che le tue informazioni di contatto siano incluse nella tua bio o slide
 
@@ -55,7 +55,7 @@ Se ancora non desideri predisporre outlet per il tuo progetto, promuovi il tuo h
   </p>
 </aside>
 
-**Considera la creazione di un sito dedicato al tuo progetto.** Un sito web rende il tuo progetto più familiare e più facile da navigare, specialmente se accompagnato da una documentazione chiara e tutorial. Inoltre, avere un sito web suggerisce che il tuo progetto sia effettivamente attivo, il che metterà la tua audience maggiormente a proprio agio nell'utilizzarlo. Offri esempi che siano di spunto su come il tuo progetto si possa utilizzare.
+**Considera la creazione di un sito dedicato al tuo progetto.** Un sito web rende il tuo progetto più familiare e più facile da navigare, specialmente se accompagnato da un tutorial e una documentazione chiara. Inoltre, avere un sito web suggerisce che il tuo progetto sia effettivamente attivo, il che metterà la tua audience maggiormente a proprio agio nell'utilizzarlo. Offri esempi che siano di spunto su come il tuo progetto possa essere utilizzato.
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), cocreatore di Django, disse che un sito web fosse _"la migliore decisione con Django mai presa fin dai primi tempi"_.
 
@@ -73,7 +73,7 @@ Avvantaggiati delle comunità e piattaforme online esistenti per raggiungere il 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Ogni programma ha funzioni specifiche che soltanto una frazione degli utenti troverà utile. Non spammare più gente possibile. Indirizzi invece i tuoi sforzi verso quelle community che trarranno beneficio dall'essere messi a conoscenza del tuo progetto.
+  Ogni programma ha funzioni specifiche che soltanto una frazione degli utenti troverà utile. Non spammare più gente possibile. Indirizza invece i tuoi sforzi verso quelle community che trarranno beneficio dall'essere messi a conoscenza del tuo progetto.
 
   _Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project._
   <p markdown="1" class="pquote-credit">
@@ -89,9 +89,9 @@ Vedi se è possibile trovare modi pertinenti per condividere il tuo progetto:
 
 * **Richiedi feedback.** Presenta te stesso e il tuo lavoro ad un audience che lo troverebbe pertinente ed interessante. Sii specifico riguardo a chi credi possa trarre beneficio dal tuo progetto. Prova a completare la frase: _"Penso che il mio progetto possa essere d'aiuto ad X, nel cercare di fare Y"_. Ascolta e rispondi a feedback altrui, piuttosto che semplicemente promuovere il tuo lavoro.
 
-Generalmente, concentrati ad essere d'aiuto prima di richiedere favori in cambio. Essendo chiunque in grado di promuovere un progetto online, ci sarà parecchio "rumore". Per distinguerti dalla massa, offri alle persone dei dettagli contestuali rispetto a chi sei, non solo rispetto a ciò che vuoi.
+Generalmente, concentrati ad essere d'aiuto prima di richiedere favori in cambio. Essendo chiunque in grado di promuovere un progetto online, ci sarà parecchio "rumore". Per distinguerti dalla massa, offri alle persone dei dettagli di contesto rispetto a chi sei, non solo rispetto a ciò che vuoi.
 
-Se nessuno pone alcuna attenzione o nessuno risponde al tuo primo tentativo di contatto, non farti scoraggiare! La maggior parte dei lanci sono un processo iterativo che può impiegare mesi o anni. Se non ricevi una risposta la prima volta, tenta una tattica diversa, oppure trova modi di conferire valore a lavoro altrue per primo. La promozione e il lancio di un progetto necessitano di tempo e dedizione.
+Se nessuno presta alcuna attenzione o nessuno risponde al tuo primo tentativo di contatto, non farti scoraggiare! La maggior parte dei lanci sono un processo iterativo che possono impiegare mesi o anni. Se non ricevi una risposta la prima volta, tenta una tattica diversa, oppure trova modi di conferire valore a lavoro altrue per primo. La promozione e il lancio di un progetto richiedono tempo e dedizione.
 
 ## Vai dove si trova il tuo audience (offline)
 
@@ -111,7 +111,7 @@ Se [parlare in pubblico](https://speaking.io/) ti è nuovo, comincia col trovare
   </p>
 </aside>
 
-Se non hai mai parlato ad un evento prima d'ora, è perfettamente normale sentirsi nervosi! Ricorda che il tuo audience è lì perchè è genuinamente interessato a sentire di più sul tuo lavoro.
+Se non hai mai parlato ad un evento prima d'ora, è perfettamente normale sentirsi nervosi! Ricorda che il tuo audience è lì perchè è genuinamente interessato ad informarsi sul tuo lavoro.
 
 Mentre redigi il tuo discorso, concentrati su ciò che il tuo audience troverà interessante e dal quale trarrà valore. Mantieni il tuo linguaggio amichevole e accessibile. Sorridi, respira, e divertiti!
 
@@ -125,7 +125,7 @@ Mentre redigi il tuo discorso, concentrati su ciò che il tuo audience troverà 
   </p>
 </aside>
 
-Quando ti senti pronto, prendi in considerazione di parlare ad una conferenza per promuovere il tuo progetto. Le conferenze possono aiutarti a raggiungere più persone da ogni dove.
+Quando ti senti preparato, considera di parlare ad una conferenza per promuovere il tuo progetto. Le conferenze possono aiutarti a raggiungere più persone da ogni dove.
 
 Cerca conferenze che siano specifiche alla tua lingua di programmazione o ecosistema. Prima di inviare il tuo discorso scritto, effettua una ricerca sulla conferenza per adattare il tuo discorso ai partecipanti. Così facendo incrementerai le probabilità di essere accettato come speaker. Puoi spesso farti un'idea del tuo audience dando un'occhiata agli speaker della conferenza.
 
@@ -157,7 +157,7 @@ Aiutando nuovi arrivati, condividendo risorse, e contribuendo ponderatamente a p
 
 Non è mai troppo presto, o troppo tardi, per cominciare a costruire la tua reputazione. Anche qualora avessi già lanciato il tuo progetto, continua a cercare modi per essere d'aiuto.
 
-Non esiste una soluzione unica e veloce per costruire un'audience. Guadagnarsi la fiducia e il rispetto degli altri richiede tempo, e farsi una reputazione non ha mai fine.
+Non esiste una soluzione unica e veloce per costruire un'audience. Guadagnarsi la fiducia e il rispetto altrue richiede tempo, e farsi una reputazione non ha mai fine.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
