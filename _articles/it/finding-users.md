@@ -16,7 +16,7 @@ Non c'è una regola che ti costringe a promuovere un progetto open source in fas
 
 ## Rifletti sul messaggio
 
-Prima di promuovere il tuo progetto, dovresti di essere in grado di spiegare cosa fa e perchè è importante.
+Prima di promuovere il tuo progetto, dovresti essere in grado di spiegare cosa fa e perchè è importante.
 
 Cosa distingue o rende interessante il tuo progetto? Perchè l'hai creato? Rispondendo a queste domande comunicherai il valore del tuo progetto più facilmente.
 
